@@ -5,8 +5,7 @@ I am learning:
   - <a>HTML</a>
   - <a>CSS</a>
 
-<img align="right" alt="Coding" width="400" src="add your link 
-  here">
+<img align="right" alt="Coding" width="400" src="add your link here">
 
 <!--
 **lomaski/lomaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
