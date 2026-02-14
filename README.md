@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 👋
+
+hello, I am Ayesha Lomaski da Silvaira Costa well Lomaski easier :grin:
+
 
 <!--
 **lomaski/lomaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
