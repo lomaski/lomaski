@@ -1,7 +1,12 @@
 ## Hey there 👋
 
-hello, I am Ayesha Lomaski da Silvaira Costa well Lomaski easier :grin:
+Hello, I am Ayesha Lomaski da Silvaira Costa well Lomaski easier :grin: <br/>
+I am learning:
+  - <a>HTML</a>
+  - <a>CSS</a>
 
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 <!--
 **lomaski/lomaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
